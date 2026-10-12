@@ -21,3 +21,8 @@ After enabling Pages (Settings → Pages → Source: Deploy from branch `main` /
 4. Save
 
 The site will be live in about a minute.
+
+## Documentation
+
+- In-repo docs: [docs/](docs/index.md)
+- Wiki: [https://github.com/fitzyracing1/axb-optimus-site/wiki](https://github.com/fitzyracing1/axb-optimus-site/wiki)
